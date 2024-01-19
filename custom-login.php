@@ -6,7 +6,7 @@
 * Author: Arvind Yadav
 * Version: 1.0
 
-*/ 
+*/
 // Plugin code goes here
 /*****************Yoga Classes Custom Code*****************************/
 
