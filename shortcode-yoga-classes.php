@@ -1,7 +1,7 @@
 <?php
 
 
-// The shortcode function
+// The shortcode function for listing classes
 function yoga_classes_shortcode() { 
     $query = new WP_Query( [
         'post_type'      => 'yoga-classes',

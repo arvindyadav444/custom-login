@@ -24,7 +24,7 @@ function for_stylesheet() {
     wp_register_script( 'jquery_min', plugins_url('assets/js/jquery.magnific-popup.min.js',__FILE__ ));
     wp_enqueue_script('jquery_min');
 }
-
+//Test comment
 add_action( 'wp_enqueue_scripts','for_stylesheet');
 // CPT for yoga classes
 function create_yoga_classes_cpt() {
